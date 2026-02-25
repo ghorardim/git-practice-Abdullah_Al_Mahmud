@@ -1,20 +1,19 @@
-# Project Title: Git & GitHub Practical Assignment
-## Name: Abdullah Al Mahmud
+# <div align="center">Project Title: Git & GitHub Practical Assignment</div>
+## <div align="center">Name: Abdullah Al Mahmud</div>
 ## Project Objective:
-1. Students must:
 
-2. Create and manage a GitHub repository
+1. Create and manage a GitHub repository
 
-3. Use Git locally
+2. Use Git locally
 
-4. Make multiple commits
+3. Make multiple commits
 
-5. Work with branches
+4. Work with branches
 
-6. Merge branches
+5. Merge branches
 
-7. Push code to GitHub
+6. Push code to GitHub
 
-9. Follow proper folder structure
+7. Follow proper folder structure
 
-10. Submit a public repository link
+8. Submit a public repository link
