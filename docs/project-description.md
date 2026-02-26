@@ -37,7 +37,7 @@ Currently, the project includes:
 
 - Prints the developer’s name
 - Prints the current date
-- Print the addition, subtraction, and multiplication of two numbers.
+- Print the addition, subtraction, multiplication, and division of two numbers.
 - Clean and organized directory structure
 - Basic Git version control setup
 
