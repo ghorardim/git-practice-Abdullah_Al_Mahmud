@@ -9,3 +9,7 @@ def subtract(a, b):
 # multiply two numbers
 def multiply(a, b):
     return a * b
+
+# divide two numbers
+def divide(a, b):
+    return a / b
