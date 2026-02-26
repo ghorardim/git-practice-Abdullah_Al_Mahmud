@@ -20,6 +20,7 @@ print("5 - 3 =", result_subtract)
 result_multiply = multiply(5, 3)
 print("5 * 3 =", result_multiply)
 
+# Add basic error handling to the calculator.
 try:
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
